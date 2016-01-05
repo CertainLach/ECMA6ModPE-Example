@@ -1,0 +1,8 @@
+{
+    "author":"F6CF",
+    "modname":"Example",
+    "version":6,
+    "readable-version":"1.0",
+    "modid":"modexample-1",
+    "onload-message":"&4Example mod loaded"
+}
